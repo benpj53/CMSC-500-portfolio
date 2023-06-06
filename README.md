@@ -44,9 +44,9 @@ _Replace each "POE#" with the actual item you are including_
 2 pieces of evidence required for each. 3 pieces required for each if self-assigning an A or A-. 
 
 ### L1: Evolution as an Algorithm
-- [ ] POE1
-- [ ] POE2
-- [ ] POE3*
+- [X] POE1
+- [X] POE2
+- [X] POE3*
 
 ### L2: Artificial Life as a Field
 
