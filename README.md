@@ -44,30 +44,30 @@ _Replace each "POE#" with the actual item you are including_
 2 pieces of evidence required for each. 3 pieces required for each if self-assigning an A or A-. 
 
 ### L1: Evolution as an Algorithm
-- [X] POE1
-- [X] POE2
-- [X] POE3*
+- [X] POE1 - 3_30_Project.cpp
+- [X] POE2 - Final Project
+- [X] POE3 - Hackathon
 
 ### L2: Artificial Life as a Field
 
-- [ ] POE1
-- [ ] POE2
-- [ ] POE3*
+- [X] POE1 - Perusal Engagement --> Diversity Paradox
+- [X] POE2 - Perusal Engagement --> Large image datasets
+- [X] POE3 - Paper Discussion --> "On the dangers of Stochastic Parrots: Can Language Models Be Too Big?"
 
 ### L3: Computational Collaboration
 
-- [ ] POE1
-- [ ] POE2
-- [ ] POE3*
+- [X] POE1 - 3_30_Project.cpp (II)
+- [X] POE2 - first_evolutionary_algorithm.py
+- [X] POE3 - Paper Discussion - "Diversity Paradox"
 
 ### L4: Failure
 
-- [ ] POE1
-- [ ] POE2
-- [ ] POE3*
+- [X] POE1 - first_evolutionary_algorithm.py (II)
+- [X] POE2 - Hackathon (II)
+- [X] POE3 - 4_4_project.cpp 
 
 ### L5: Reflection and Metacognition
 
-- [ ] POE1
-- [ ] POE2
-- [ ] POE3*
+- [X] POE1 - Final Project (II)
+- [X] POE2 - Paper Discussion --> "On the dangers of Stochastic Parrots" (II)
+- [X] POE3 - Perusal Engagement --> "Large Image Datasets" (II)
